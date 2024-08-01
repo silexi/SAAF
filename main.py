@@ -1,3 +1,8 @@
+# Author: Bartu KILIÇ
+# Contact: kilicbartu@gmail.com
+# GitHub: https://github.com/silexi
+# Website: https://bartukilic.com
+
 from systeminformations import *
 from functions import *
 
